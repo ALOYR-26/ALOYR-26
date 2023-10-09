@@ -5,7 +5,7 @@
 <div style="display: flex;">
   <p>A dynamic mind adept at code crafting and skilled in data interpretation—a fusion of roles encompassing Machine Learning Engineer and Web Developer.</p>
 <div id="header" align="center">
-  <img src="ai.gif" width="500" height="300" img align="right">
+  <img src="ai.gif" width="500" height="500" img align="right">
 </div>
 </div>
 
